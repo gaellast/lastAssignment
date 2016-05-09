@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LastAssignment</string>
+    <string name="addNewApp">Ajouter une application</string>
+    <string name="cancel">cancel</string>
+    <string name="validate">validate</string>
+    <string name="IVContentDescCanFindApp">logo application</string>
+    <string name="delete">delete</string>
+</resources>
